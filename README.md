@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WilliamMakori
 - 👀 I’m interested in Software Engineering, Machine learning and AI.
 - 🌱 I’m currently learning JavaScript and server side development. 
-- 💞️ I’m looking to collaborate on any project I can get my hands on. 
 - 📫 How to reach me email me @williammakori99@yahoo.com. 
 
 <!---
